@@ -1,6 +1,6 @@
 # Projeto_Smart_4.0
 
-Grupo 1; Sprint 1 (pendente); Sprint 2 (pendente)
+Grupo 1; Sprint 1 (enviado para gdrive em 09/11/2026); Sprint 2 (enviado para gdrive em 09/11/2026)
 
 Grupo 2; Sprint 1 (pendente); Sprint 2 (pendente)
 
